@@ -1,11 +1,10 @@
 # Node + EJS
 - Learning GitHub, Node + EJS
-<img src="/c/Users/T-Gamer/Desktop/Curso node + EJS/Home.png" alt="Página Home"/>
 
-<img src='/c/Users/T-Gamer/Desktop/Curso node + EJS/Sobre.png' alt="Página Sobre Mim"/>
+![Home](https://user-images.githubusercontent.com/109323435/194326874-e1089fd1-d79b-4dcb-97ff-2555698c4efa.png)
 
-<img src='/c/Users/T-Gamer/Desktop/Curso node + EJS/Nodeserver.png' alt="Server Rodando"/>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/DfgRQcN" data-context="false" ><a href="//imgur.com/a/DfgRQcN">Teste</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+![Sobre](https://user-images.githubusercontent.com/109323435/194326985-7cf4a855-88c8-4e5b-ab82-73f46d8d54ce.png)
 
-![img]https://imgur.com/gallery/DfgRQcN)
+
+![Nodeserver](https://user-images.githubusercontent.com/109323435/194327017-a6f1326a-11ae-4498-a751-44ea3a320eb3.png)
